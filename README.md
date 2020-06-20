@@ -1,5 +1,6 @@
 ## pikpikcu.zsh-theme
-
+### Install ohmyzsh
+![oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)ohmyzsh
 ## install
 cp pikpikcu.zsh-theme ~/.oh-my-zsh/themes/
 
