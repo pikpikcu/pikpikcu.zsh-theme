@@ -7,7 +7,7 @@ Edit File .zshrc
 
 Edit line ZSH_THEME="pikpikcu"
 
-![]()
+![](https://raw.githubusercontent.com/pikpikcu/pikpikcu.zsh-theme/master/pikpikcu.png)
 
 ## Source
 ```zsh
